@@ -1,0 +1,69 @@
+body{
+    color: #353535;
+    font: normal 1rem Arrial, Tahoma, sans-serif;
+}
+
+/* h1{
+    color: #fff;
+    text-shadow: 1px 1px 5px #aaa;
+} */
+
+h1{
+    font-size: 2rem;
+}
+
+.desc{
+    font-size: 1.6rem;
+    text-transform: lowercase;
+    color: #2b5dad;
+}
+
+[title="list"]{
+    color: red;
+}
+
+.test b{
+    color: red;
+}
+
+.test2 > b{
+    color: red;
+}
+
+.test3 b + i{
+    color: red;
+}
+
+.test4 b ~ i{
+    color: red;
+}
+
+.test5 b, .test5 i{
+    color: lime;
+}
+
+/* #red{
+    color: red; идентификаторы это для якорей и скриптов и не желательно использовать 
+} */
+
+/* p{
+    color:#999;
+    font-style: italic;  это действует массова
+} */
+
+/* id="red" это уникальный идентификатор повторять его нельзя!!! */
+/*это коментарий в css file*/  /* ctrl / и сразу можно коментировать */
+
+/* Синтаксис
+    селектор {
+        свойство: значение;
+        свойство2: значение значение2 значение3...;     
+    }
+*/
+
+/* Синтаксис
+    селектор {
+        свойство: значение;
+        свойство2: значение значение2 значение3...;     
+    }
+*/
